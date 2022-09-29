@@ -10,6 +10,7 @@
    - <picture><img src="./static/ZT_3.png" alt="ZT_3.png"/></picture>
  - Generated using the prompt `Sketches of an unknown machine` (the starting image noise was greyscale)
    - <picture><img src="./static/ZT_4.png" alt="ZT_4.png"/></picture>
+   - ![ZT_4.mp4](./anim/ZT_4.mp4)
  - Generated using the prompt `Diagrams and blueprints of the Immortal Cell from Hyper Light Drifter. trending on artstation` (the starting image noise was greyscale)
    - <picture><img src="./static/ZT_5.png" alt="ZT_5.png"/></picture>
  - Generated using the prompt `Underwater Ruins. trending on artstation` (the starting image noise was greyscale)
