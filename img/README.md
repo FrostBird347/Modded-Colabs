@@ -19,7 +19,7 @@
 
  - Generated using the prompt `crow wearing a vr headset`
    - <picture><img src="./static/SD_13.png" alt="SD_13.png"/></picture>
- - [ZT_2.png](./png/ZT_2.png) inputted to Stable Diffusion with the same prompt.
+ - [ZT_2.png](./static/ZT_2.png) inputted to Stable Diffusion with the same prompt.
    - <picture><img src="./static/SD_1.png" alt="SD_1.png"/></picture>
    - <picture><img src="./static/SD_2.png" alt="SD_2.png"/></picture>
    - <picture><img src="./static/SD_17.png" alt="SD_17.png"/></picture>
